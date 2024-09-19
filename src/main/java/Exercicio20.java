@@ -15,9 +15,12 @@ public class Exercicio20 {
 		System.out.print("NA : ");
 		n = sc.nextInt();
 
+		
+		// OUTPUT
 		for (int i = 1; i <= n; i++) {
 			System.out.println(i);
 		}
+		
 
 	}
 }
